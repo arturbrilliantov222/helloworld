@@ -21,7 +21,5 @@ public class multiplitionHomework {
                 System.out.print("*");
             }
         }
-
-
     }
 }
