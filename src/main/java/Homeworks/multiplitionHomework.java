@@ -12,6 +12,7 @@ public class multiplitionHomework {
             System.out.println(i + " * " + a + " = " + sum);
         }
 
+
         System.out.println("task 2");
         int b;
         int c;
